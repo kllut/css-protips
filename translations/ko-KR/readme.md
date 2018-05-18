@@ -231,6 +231,7 @@ ul > li:not(:last-child)::after {
 
 
 <div id="select-items-using-negative-nth-child"></div>
+
 ### Negative `nth-child`를 사용하여 아이템 나누기
 
 Negative `nth-child`를 사용하여 n분의 1로 아이템을 나눌 수 있다.
