@@ -153,7 +153,7 @@ Border를 넣거나...
 }
 ```
 
-물론 `.nav li + li`을 사용할 수도 있겠지만, but with `:not()` 는 까끔하고, 사용자가 알기 쉬운 코드가 됩니다.
+물론 `.nav li + li`을 사용할 수도 있겠지만, but with `:not()` 는 깔끔하고, 사용자가 알기 쉬운 코드가 됩니다.
 
 #### [데모](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
@@ -298,7 +298,7 @@ SVG는 [IE9](http://caniuse.com/#search=svg) 이후부터 지원되고 있습니
 
 이 예시에서는, 모든 요소가 `margin-top: 1.5em`를 따릅니다.
 
-"lobotomized owl" selector에 대해 더 알고싶으시다면 *A List Apart* [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)의 이 문서를 읽어보세요.
+"lobotomized owl" selector에 대해 더 알고 싶으시다면 *A List Apart* [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)의 이 문서를 읽어보세요.
 
 #### [데모](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -309,7 +309,7 @@ SVG는 [IE9](http://caniuse.com/#search=svg) 이후부터 지원되고 있습니
 
 ### CSS로 구현된 슬라이더에 `max-height` 사용하기
 
-CSS에서 구현된 슬라이더는`max-height`을`overflow:hidden;`와 함께 사용하세요.
+CSS에서 구현된 슬라이더는 `max-height`을 `overflow:hidden;`와 함께 사용하세요.
 
 ```css
 .slider {
@@ -334,7 +334,7 @@ hover시 `max-height`를 요소를 확장 오버플로우의 결과로 슬라이
 
 ### 테이블 셀의 너비 균등하게 하기
 
-테이블의 각 셀의 너비를 균등하려면`table-layout:fixed;`를 사용해 간단히 할 수 있습니다.
+테이블의 각 셀의 너비를 균등하려면 `table-layout:fixed;`를 사용해 간단히 할 수 있습니다.
 
 ```css
 .calendar {
